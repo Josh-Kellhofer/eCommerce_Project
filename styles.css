@@ -1,14 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
 nav {
     word-spacing: 30px;
     background-color: white;
-    color: black;
+    text-decoration: none;
+    color: Black
   }
 
 .logo {
-  position: fixed;
-  right: 47.75%
   
 }
+
 
 
 
