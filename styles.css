@@ -10,13 +10,23 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  
+}
+
 nav {
+    margin-left: 300px;
+    margin-right: 100px;
     padding: 10px;
     word-spacing: 30px;
     background-color: white;
     text-decoration: none;
     color: Black
   }
+
+footer {
+  background-color: chocolate;
+}
 
 .u{
   
