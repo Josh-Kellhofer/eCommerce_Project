@@ -11,7 +11,7 @@ html {
 }
 
 nav {
-    padding: 100px;
+    padding: 10px;
     word-spacing: 30px;
     background-color: white;
     text-decoration: none;
@@ -27,15 +27,27 @@ nav {
 }
 
 .rightpot{
-  margin-right: auto;
+  margin-top: 983px;
+  margin-right: 140px;
+  float: right;
   
 }
 
 .leftpot{
   
-  margin-left: auto;
+  margin-left: 140px;
+  margin-top: 1267px;
 }
 
+.banner{
+  margin-top: 110px;
+  
+}
 
-
-
+.firstpara{
+  text-size-adjust: 20;
+  margin-left: 202px;
+  margin-top: 1019px;
+  
+  
+}
