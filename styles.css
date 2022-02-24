@@ -11,17 +11,30 @@ html {
 }
 
 nav {
+    padding: 100px;
     word-spacing: 30px;
     background-color: white;
     text-decoration: none;
     color: Black
   }
 
-.logo {
+.u{
+  
+  border-bottom: solid;
+  border-bottom-width:thick ;
+  margin: 140px;
+  width: 500px;
+}
+
+.rightpot{
+  margin-right: auto;
   
 }
 
-
+.leftpot{
+  
+  margin-left: auto;
+}
 
 
 
